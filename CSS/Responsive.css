@@ -1,0 +1,55 @@
+@media screen and (max-width:768px){
+    /* 
+    ==========
+    !navbar
+    ==========
+    */
+    .navbar_logo{
+        font-size:1.5rem;
+        }
+    .navs_aTag{
+        font-size:0.9rem;
+        }
+    .navs_abtn{
+        font-size:0.9rem;
+        }
+    /* 
+    =================
+    !header portion
+    =================
+    */
+    .HeadingOfHeader{
+        font-size:2rem;
+    }
+    .header_content div div h1{
+        font-size:2rem;
+        font-weight:500;
+    }
+
+    /* 
+    ===========
+    !Info About Section Image
+    ===========
+    */
+    .InfoAboutSectionImage{
+        width:90%;
+    }
+    /* 
+    ============
+    !key features part
+    ============
+    */
+    
+
+    
+    /*
+    ================ 
+    !Accordian part
+    ================
+    */
+
+    .bold-font{
+        font-size:1rem !important;
+        font-weight: 700;
+    }
+}

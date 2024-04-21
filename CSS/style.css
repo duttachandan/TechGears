@@ -1,0 +1,77 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+.Maindiv{
+  overflow-x:hidden;
+}
+/* 
+    ==========
+    !navbar
+    ==========
+*/
+.Header_section {
+    background-image: linear-gradient(180deg, #c4b6fd, #93acfc);
+  }
+.navbar_logo{
+  font-size:2.5rem;
+  font-weight:700;
+}
+.navs_aTag{
+  font-size:1.4rem;
+}
+.navs_abtn{
+  font-size:1.1rem;
+}
+/* 
+    ===========
+    !header section
+    ===========
+*/
+.header_image img{
+  width:100%;
+}
+.header_content{
+  height:fit-content;
+}
+.HeadingOfHeader{
+  font-size:4rem;
+}
+.header_content div div h1{
+  font-size:4rem;
+  font-weight:700;
+}
+
+
+/* 
+=================
+!Key Features part
+=================
+*/
+.KeyFeatures{
+  width:95vw;
+}
+.cards_features{
+  transition:1.5ms ease-in;
+}
+.cards_features i{
+  margin-block:10px;
+}
+.cards_features:hover{
+  background-color:blue !important;
+  color:white;
+  padding-inline:40px;
+  padding-block:60px;
+}
+
+/*
+================ 
+  !Accordian part
+================
+*/
+
+.bold-font{
+  font-size:2rem !important;
+  font-weight: 700;
+}
