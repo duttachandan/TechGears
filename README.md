@@ -1,0 +1,1 @@
+This is A bootstrap VR ecommerce website I have Cloned it from an youtube playlist, if you want to the components of this project then just download the zip file on to your local machine then unzip it and copy paste those components which one you like
